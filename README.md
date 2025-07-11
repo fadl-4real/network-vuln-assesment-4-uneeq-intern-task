@@ -30,7 +30,7 @@ This project performs a vulnerability assessment on a local target using Nmap, c
 ---
 
 ## 🎥 Walkthrough Video  
-[Watch on YouTube](https://youtu.be/YOUR_VIDEO_LINK_HERE)
+[Watch on YouTube](https://youtu.be/X31CemK2xF4)
 
 ---
 
